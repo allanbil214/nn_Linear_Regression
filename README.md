@@ -71,6 +71,3 @@ This project is open-source and available under the MIT License.
 Feel free to fork this repository, make improvements, and submit pull requests!
 
 ---
-
-**Note:** No lambda layers are used in this project to maintain compatibility with various infrastructures.
-
