@@ -44,7 +44,7 @@ The model is trained for 1000 epochs to ensure convergence to a low error rate.
    Execute the Python script to train the model and make predictions:
 
    ```bash
-   python solution.py
+   python nn_Linear_Regression.py
    ```
 
 3. **Prediction Example:**\
@@ -55,7 +55,7 @@ The model is trained for 1000 epochs to ensure convergence to a low error rate.
    ```
 
 4. **Model Saving:**\
-   The trained model is saved as `DCML1.h5` for future use.
+   The trained model is saved as `model.h5` for future use.
 
 ## Output
 
